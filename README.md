@@ -12,8 +12,8 @@ Sample Body for Creating API :-
 
 
 
+
  {
-     
         "name": "medium",
         "seats": 50,
         "roomid": 102,
