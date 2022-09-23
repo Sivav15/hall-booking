@@ -1,5 +1,5 @@
 
-                                   Hi Welcome to my Hall Booking API Task. Consider this as a complete guide for the same.
+    Hi Welcome to my Hall Booking API Task. Consider this as a complete guide for the same.
 
 
 
@@ -38,11 +38,15 @@ Sample Body for Creating API :-
 
 Sample Body for Booking a room : -
             {
+            
+            
             "name": "ram",
             "date": "2022-09-23",
             "start": "10:00",
             "end": "20:00",
             "roomId": 101
+            
+            
         }
 
 
