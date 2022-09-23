@@ -10,6 +10,8 @@
 
 Sample Body for Creating API :-
 
+
+
  {
      
         "name": "medium",
@@ -37,6 +39,9 @@ Sample Body for Creating API :-
 3) Booking a room made easy with a post request in https://hallbooking12.herokuapp.com/room-booking
 
 Sample Body for Booking a room : -
+
+
+
             {
             
             
