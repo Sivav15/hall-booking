@@ -13,7 +13,10 @@ Sample Body for Creating API :-
 
 
 
- {
+
+{
+
+     
         "name": "medium",
         "seats": 50,
         "roomid": 102,
@@ -31,8 +34,10 @@ Sample Body for Creating API :-
             "start": "",
             "end": "",
             "roomId": ""
-        }
+       
+       }
     }
+
 
 
 
