@@ -3,10 +3,10 @@
 
 
 
-1) To get the all room Details I have written a get request in https://hallbooking12.herokuapp.com
+1) To get the all room Details I have written a get request in https://hall-booking-delta.vercel.app
 
 
-2)  We can create a room with https://hallbooking12.herokuapp.com/create-room
+2)  We can create a room with https://hall-booking-delta.vercel.app/create-room
 
 Sample Body for Creating API :-
 
@@ -41,7 +41,7 @@ Sample Body for Creating API :-
 
 
 
-3) Booking a room made easy with a post request in https://hallbooking12.herokuapp.com/room-booking
+3) Booking a room made easy with a post request in https://hall-booking-delta.vercel.app/room-booking
 
 Sample Body for Booking a room : -
 
@@ -60,7 +60,7 @@ Sample Body for Booking a room : -
         }
 
 
- 4) We can get the Booked Room details using a get request in https://hallbooking12.herokuapp.com/booked-room-details
+ 4) We can get the Booked Room details using a get request in https://hall-booking-delta.vercel.app/booked-room-details
 
 
- 5) We can get the Booked Customer details using a get request in  https://hallbooking12.herokuapp.com/booked-customer-details
+ 5) We can get the Booked Customer details using a get request in  https://hall-booking-delta.vercel.app/booked-customer-details
